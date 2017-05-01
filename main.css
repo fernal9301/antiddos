@@ -1,0 +1,51 @@
+.hacker {
+  max-width: 90%;
+  margin: 0 5%;
+  margin-top: 10px;
+}
+
+.hacker-img {
+  width: 100%;
+  height: 550px;
+}
+
+.description {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description-header {
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #424242;
+}
+
+.column-1-3 {
+  float: left;
+  width: 33.33%;
+  margin-bottom: 50px;
+}
+
+.description:after {
+  content: "";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@media (max-width: 960px) {
+  .column-1-3 {
+    float: left;
+    width: 50%;
+  }
+}
+
+@media (max-width: 640px) {
+  .column-1-3 {
+    float: none;
+    width: auto;
+  }
+}

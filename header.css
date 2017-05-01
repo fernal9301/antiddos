@@ -1,0 +1,31 @@
+.container {
+  height: 200px;
+  width: 100%;
+  background-color: #fff;
+}
+
+.img-intro {
+  float: left;
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.navigation-list {
+  float: right;
+  list-style: none;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.navigation-item {
+  margin: 40px;
+  display: inline-block;
+}
+
+.navigation-link {
+  color: #424242;
+  font-style: bold;
+  font-size: 2em;
+  text-decoration: none;
+}
+

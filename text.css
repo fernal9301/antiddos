@@ -1,0 +1,44 @@
+body {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  color: #424242;
+}
+
+.text-indent {
+  margin: 5px;
+  padding: 5px;
+}
+
+.text-list {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.text-item {
+  margin-bottom: 5px;
+  padding: 1px;
+  list-style-type: square;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-lead {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 30px;
+}
+
+.text-medium {
+  list-style: none;
+  font-size: 14px;
+  line-height: 24px;
+  color: #666;
+}
+
+.title-medium {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
