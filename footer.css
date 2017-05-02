@@ -1,8 +1,10 @@
 footer {
   margin-top: 50px;
+  margin-bottom: 30px;
+
 }
 
 .stop-ddos {
-  color: #ff1a1a;
+  color: #1f3d7a;
   text-decoration: none;
 }

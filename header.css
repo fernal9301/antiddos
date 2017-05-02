@@ -6,8 +6,8 @@
 
 .img-intro {
   float: left;
-  margin-top: 35px;
-  margin-left: 50px;
+  margin-top: 5px;
+  margin-left: 5px;
 }
 
 .navigation-list {
@@ -30,6 +30,6 @@
 }
 
 .navigation-link:hover {
-  color: #ff1a1a;
+  color: #050a14;
   transition: all ease .3s;
 }

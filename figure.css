@@ -1,0 +1,9 @@
+.cost-item {
+  margin: 5px;
+  border-radius: 100%;
+  border: 1px solid blue;
+}
+
+.cost-item:hover {
+  box-shadow: 0 0 5px 5px blue;
+}

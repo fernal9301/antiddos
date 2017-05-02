@@ -1,21 +1,26 @@
 .prices {
-  color: #ff1a1a;
-}
-
-.fare, .fare-head, .fare-footer {
-  border-radius: 5px;
+  color: #1f3d7a;
 }
 
 .fare-head, .fare-footer, .order-link {
   background: white;
-  color: #ff1a1a;
+  color: #1f3d7a;
   padding: 20px 0;
   text-decoration: none;
+}
+
+.order-link {
+  text-decoration: underline;
+}
+
+.order-link:hover {
+  color: blue;
 }
 
 .fare {
   background: white;
   margin: auto;
+  border-right: 1px solid #1f3d7a;
 }
 
 .fare-head {
